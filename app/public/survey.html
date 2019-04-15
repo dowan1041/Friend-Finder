@@ -205,7 +205,7 @@
     $("#submit").on("click", function(event) {
       event.preventDefault();
 
-      function validateForm() {
+      function filloutQuestion() {
         var isValid = true;
         $(".form-control").each(function() {
           if ($(this).val() === "") {
@@ -220,7 +220,7 @@
         return isValid;
       }
       
-      if (validateForm()) {
+      if (filloutQuestion()) {
         
         var userData = {
           name: $("#name").val(),
