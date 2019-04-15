@@ -8,7 +8,8 @@ module.exports = function (app) {
     });
 
     app.post("/api/friends", function (req, res) {
-
+      //this var is to compare new-search.
+      // less difference will be matched
         var soulmate = {
           name: "",
           photo: "",
