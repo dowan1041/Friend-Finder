@@ -14,21 +14,21 @@
 [App Link / Heroku](https://fast-temple-47738.herokuapp.com/)
 
 ![Demo Image1](/images/image1.png)
-Format: ![Alt Text](url)
+
 
 #### Initial API objects
 
 ![Demo Image1](/images/image2.png)
-Format: ![Alt Text](url)
+
 
 #### Search Demo
 
 ![Demo Image1](/images/image3.png)
-Format: ![Alt Text](url)
+
 
 #### Matched result
 
 ![Demo Image1](/images/image4.png)
-Format: ![Alt Text](url)
+
 
 #### New object is added to API
